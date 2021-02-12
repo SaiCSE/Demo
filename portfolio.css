@@ -75,19 +75,19 @@ h2{
 
 .project-tile{
   
-  width: 320px;
-  height: 300px;
+  width: 220px;
+  height: 170px;
 }
   
 .survey-project-image{
-width: 320px;
-height: 300px;
-padding-left: 80px;
+width: 220px;
+height: 170px;
+padding-left: 50px;
 }
  
 .documentation-project-image {
-  width:500px;
-  height: 300px;
+  width:220px;
+  height: 170px;
   padding-left: 80px;
  
 }
@@ -96,12 +96,12 @@ padding-left: 80px;
 
 
 .contact-links{
-  padding-left: 600px;
+  padding-left: 500px;
   
 }
 
 @media {
-  screen max-width: 500px;
+  screen max-width: 700px;
 }
 
 
